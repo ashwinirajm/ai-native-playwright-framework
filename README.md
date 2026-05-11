@@ -26,12 +26,30 @@ AI-assisted automation framework built with Playwright and TypeScript focused on
 ai-native-playwright-framework/
 │
 ├── ai/
+│   ├── locatorHealer.ts
+│   ├── failureAnalyzer.ts
+│   ├── testGenerator.ts
+│   └── testDataGenerator.ts
+│
 ├── tests/
 │   ├── e2e/
+│   │   ├── login.spec.ts
+│   │   ├── selfHealing.spec.ts
+│   │   ├── failureAnalysis.spec.ts
+│   │   ├── testGeneration.spec.ts
+│   │   └── testDataGeneration.spec.ts
+│   │
 │   └── swarm/
+│       └── multiUserSwarm.spec.ts
+│
 ├── screenshots/
-├── playwright.config.ts
+├── .github/workflows/
+│
+├── .env.example
+├── .gitignore
 ├── package.json
+├── playwright.config.ts
+├── tsconfig.json
 └── README.md
 ```
 
@@ -57,6 +75,10 @@ npx playwright show-report
 ```
 
 ## Test Report
+<img width="1091" height="773" alt="Test_Report" src="https://github.com/user-attachments/assets/2f07818f-67f7-4cc0-a5b0-eddabf0d7cc8" />
+
+All test flows execution are available in screenshots
+
 
 
 
