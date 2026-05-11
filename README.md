@@ -75,9 +75,9 @@ npx playwright show-report
 ```
 
 ## Test Report
-<img width="1091" height="773" alt="Test_Report" src="https://github.com/user-attachments/assets/2f07818f-67f7-4cc0-a5b0-eddabf0d7cc8" />
+<img width="450" height="320" alt="Test_Report" src="https://github.com/user-attachments/assets/2f07818f-67f7-4cc0-a5b0-eddabf0d7cc8" />
 
-All test flows execution are available in screenshots
+All execution screenshots and reports are available in the screenshots/ folder.
 
 
 
