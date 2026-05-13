@@ -17,7 +17,7 @@ AI-assisted automation framework built with Playwright and TypeScript focused on
 - Playwright
 - TypeScript
 - Node.js
-- Gemini API concepts
+- Gemini API
 - GitHub Actions
 
 ## Project Structure
